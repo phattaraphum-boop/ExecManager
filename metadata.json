@@ -1,0 +1,5 @@
+{
+  "name": "Executive Appointment System",
+  "description": "A management system for executive appointments with calendar views, dashboards, and role-based access control.",
+  "requestFramePermissions": []
+}
